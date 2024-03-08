@@ -134,3 +134,4 @@ C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.pdb
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.genruntimeconfig.cache
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\ref\EmprestimoLivros.dll
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.sourcelink.json
