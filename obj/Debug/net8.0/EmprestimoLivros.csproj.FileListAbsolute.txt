@@ -128,10 +128,10 @@ C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\scopedcss\bundle\EmprestimoLivros.styles.css
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\scopedcss\projectbundle\EmprestimoLivros.bundle.scp.css
-C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.csproj.CopyComplete
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.dll
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\refint\EmprestimoLivros.dll
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.pdb
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.genruntimeconfig.cache
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\ref\EmprestimoLivros.dll
 C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\EmprestimoLivros.sourcelink.json
+C:\Users\vinic_jmhc68q\OneDrive\Documentos\CSharp\EmprestimoLivros\obj\Debug\net8.0\Empresti.03A77E8E.Up2Date
